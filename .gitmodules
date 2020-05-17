@@ -1,3 +1,18 @@
 [submodule "2nd_year/203hotline_2019"]
 	path = 2nd_year/203hotline_2019
 	url = https://github.com/Eydou/203hotline_2019
+[submodule "2nd_year/204ducks_2019"]
+	path = 2nd_year/204ducks_2019
+	url = https://github.com/Eydou/204ducks_2019
+[submodule "2nd_year/205IQ_2019"]
+	path = 2nd_year/205IQ_2019
+	url = https://github.com/Eydou/205IQ_2019
+[submodule "2nd_year/206neutrinos_2019"]
+	path = 2nd_year/206neutrinos_2019
+	url = https://github.com/Eydou/206neutrinos_2019
+[submodule "2nd_year/207demography_2019"]
+	path = 2nd_year/207demography_2019
+	url = https://github.com/Eydou/207demography_2019
+[submodule "2nd_year/208dowels_2019"]
+	path = 2nd_year/208dowels_2019
+	url = https://github.com/Eydou/207demography_2019
